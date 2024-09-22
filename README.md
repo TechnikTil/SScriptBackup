@@ -10,7 +10,7 @@ SScript is an easy to use Haxe script tool that aims to be simple while supporti
 If you have an issue with SScript or have a suggestion, you can always open an issue here. However, pull requests are NOT welcome and will be ignored.
 
 ## Installation
-`haxelib git SScript https://github.com/TechnikTil/SScriptBackend.git`
+`haxelib git SScript https://github.com/TechnikTil/SScriptBackup.git`
 
 Enter this command in command prompt to get the latest release from Github. 
 Git releases have the latest features but they are unstable and can cause problems.
