@@ -12,8 +12,7 @@ If you have an issue with SScript or have a suggestion, you can always open an i
 ## Installation
 `haxelib git SScript https://github.com/TechnikTil/SScriptBackup.git`
 
-Enter this command in command prompt to get the latest release from Github. 
-Git releases have the latest features but they are unstable and can cause problems.
+Enter this command in command prompt to get the latest release from Github.
 
 After installing SScript, don't forget to add it to your Haxe project.
 
